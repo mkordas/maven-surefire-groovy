@@ -1,7 +1,6 @@
 package io.github.mkordas
 
-class Example
-{
+class Example {
     def show() {
         println 'Hello World'
     }
