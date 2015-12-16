@@ -45,7 +45,7 @@
                 <version>2.19</version>
                 <configuration>
                     <includes>
-                        <include>**/ExampleTest*</include>
+                        <include>ExampleTest</include>
                     </includes>
                 </configuration>
             </plugin>
